@@ -43,8 +43,6 @@
           <q-item-section class="text-h6 text-weight-bold">notification</q-item-section>
         </q-item>
 
-
-
       </q-list>
     </q-drawer>
     <p class="deep-purple-9">....</p>
